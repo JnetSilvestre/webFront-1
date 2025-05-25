@@ -14,12 +14,10 @@ Uma plataforma fictícia que divulga o trabalho de uma ONG local que oferece ref
 
 ## Índice
 
-## Índice
-
 - [Sobre](#sobre)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](https://github.com/filipelimma/webFront-1#tecnologias)
-- [Autores](https://github.com/SEU_USUARIO/SEU_REPOSITORIO#autores)
+- [Tecnologias](#tecnologias)
+- [Autores](#autores)
 
 ---
 
@@ -40,6 +38,7 @@ O site “Saber que Transforma” foi criado para simular a página de uma ONG f
 ├── cadastro.html      # Página de cadastro de voluntário
 ├── style.css          # Estilos principais
 ├── /imagens           # Imagens usadas no site
+```
 
 ---
 
@@ -59,3 +58,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Filipe Antonio de Lima Nogueira](https://github.com/filipelimma)  
 - [João Victor da Cruz Silvestre](https://github.com/JnetSilvestre)  
 - [Matheus Henrique Consoni Mazanti](https://github.com/MisterThuk)
+
+
