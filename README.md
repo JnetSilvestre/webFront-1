@@ -16,8 +16,8 @@ Uma plataforma fictícia que divulga o trabalho de uma ONG local que oferece ref
 
 - [Sobre](#sobre)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](#tecnologias)
-- [Autores](#autores)
+- [Tecnologias](#tecnologias-1)
+- [Autores](#autores-1)
 
 ---
 
