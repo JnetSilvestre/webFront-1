@@ -14,10 +14,12 @@ Uma plataforma fictícia que divulga o trabalho de uma ONG local que oferece ref
 
 ## Índice
 
+## Índice
+
 - [Sobre](#sobre)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](#tecnologias-1)
-- [Autores](#autores-1)
+- [Tecnologias](https://github.com/filipelimma/webFront-1#tecnologias)
+- [Autores](https://github.com/SEU_USUARIO/SEU_REPOSITORIO#autores)
 
 ---
 
