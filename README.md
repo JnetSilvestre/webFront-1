@@ -39,6 +39,8 @@ O site “Saber que Transforma” foi criado para simular a página de uma ONG f
 ├── style.css          # Estilos principais
 ├── /imagens           # Imagens usadas no site
 
+---
+
 ## Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -47,6 +49,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **CSS3**: Para estilização visual, layout e responsividade básica.
 - **Google Fonts (Roboto)**: Fonte utilizada para melhor legibilidade e estética.
 - **GitHub Pages**: Para hospedagem gratuita do site.
+
+---
 
 ## Autores
 
