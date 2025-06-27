@@ -1,4 +1,3 @@
-/* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +10,6 @@
     color: #1E3A8A;
   }
   
-  /* Navbar */
   .navbar {
     background-color: #1E3A8A;
     color: white;
@@ -47,7 +45,6 @@
     background-color: #d49f00;
   }
   
-  /* Hero */
   .hero {
     background-color: #FBBF24;
     color: #1E3A8A;
@@ -59,7 +56,6 @@
     padding: 50px 30px;
   }
   
-  /* Sobre */
   #sobre {
     background-color: white;
     border-radius: 10px;
@@ -100,7 +96,6 @@
     font-weight: bold;
   }
   
-  /* Galeria */
   .galeria .imagens {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -114,7 +109,6 @@
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
   
-  /* CTA Voluntário */
   .cta-voluntario {
     background-color: #1E3A8A;
     color: white;
@@ -139,7 +133,6 @@
     background-color: #d49f00;
   }
   
-  /* Footer */
   footer {
     background-color: #1E3A8A;
     color: white;
@@ -221,3 +214,151 @@
     text-decoration: none;
   }
   
+#cadastro-usuario {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.form-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#lista-usuarios {
+    margin-top: 30px;
+}
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#lista-resultados {
+    list-style: none;
+    padding: 0;
+}
+
+#lista-resultados li {
+    background: #fff;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.user-info {
+    flex: 1;
+}
+
+.user-info small {
+    display: block;
+    color: #666;
+    font-size: 0.8em;
+    margin-top: 5px;
+}
+
+.btn-excluir {
+    background: #ff4444;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.empty {
+    text-align: center;
+    color: #666;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#cadastro-usuario {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+#lista-usuarios {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.user-list-container {
+    min-height: 300px;
+    margin-top: 20px;
+}
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+#lista-resultados li {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#lista-resultados li:last-child {
+    border-bottom: none;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    background-color: #1E3A8A;
+    color: white;
+}
