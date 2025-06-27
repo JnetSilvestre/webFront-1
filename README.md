@@ -8,16 +8,16 @@ Uma plataforma fictícia que divulga o trabalho de uma ONG local que oferece ref
 
 ## Demonstração
 
-🔗 Acesse o site: (colocar link pages aqui)
+🔗 Acesse o site: [Saber que Transforma](https://misterthuk.github.io/WebFont-1/)
 
 ---
 
 ## Índice
 
 - [Sobre](#sobre)
-- [Estrutura do Projeto](estrutura-do-projeto)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias](#tecnologias)
-- [Autores](#curriculos aqui)
+- [Autores](#autores)
 
 ---
 
@@ -38,3 +38,25 @@ O site “Saber que Transforma” foi criado para simular a página de uma ONG f
 ├── cadastro.html      # Página de cadastro de voluntário
 ├── style.css          # Estilos principais
 ├── /imagens           # Imagens usadas no site
+```
+
+---
+
+## Tecnologias
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **HTML5**: Para a estrutura semântica e o conteúdo das páginas web.
+- **CSS3**: Para estilização visual, layout e responsividade básica.
+- **Google Fonts (Roboto)**: Fonte utilizada para melhor legibilidade e estética.
+- **GitHub Pages**: Para hospedagem gratuita do site.
+
+---
+
+## Autores
+
+- [Filipe Antonio de Lima Nogueira](https://github.com/filipelimma)  
+- [João Victor da Cruz Silvestre](https://github.com/JnetSilvestre)  
+- [Matheus Henrique Consoni Mazanti](https://github.com/MisterThuk)
+
+
